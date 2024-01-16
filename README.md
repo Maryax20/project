@@ -6,7 +6,7 @@ The aim of this project is to build a multi-section landing page, with a dynamic
 
 
 ## Language Used
-HTML
-CSS
-JAVASCRIPT
+-HTML
+-CSS
+-JAVASCRIPT
 
