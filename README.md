@@ -1,3 +1,7 @@
 # Landing Page Project 
 
-Add new line 
+## Project Description
+
+## Usage 
+
+## Dependencies
